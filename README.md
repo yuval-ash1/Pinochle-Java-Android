@@ -10,7 +10,7 @@ CONTENTS OF THIS FILE
 
 INTRODUCTION
 ------------
-This project is an implementation of the Pinochle card game written with an Event-Driven design andJava/Android. The project was written as the third part of Organization of Programming Languages course (CMPS-366) at Ramapo college during the Fall 2020 semester. The project contains 8 different classes. Additionally, the project features a serialization option of saving the game's state into a file as well as loading a game from a file.
+This project is an implementation of the Pinochle card game written with an Event-Driven design in Java/Android. The project was written as the third part of Organization of Programming Languages course (CMPS-366) at Ramapo college during the Fall 2020 semester. The project contains 8 different classes. Additionally, the project features a serialization option of saving the game's state into a file as well as loading a game from a file.
 
 RULES OF THE PINOCHLE GAME
 --------------------------
